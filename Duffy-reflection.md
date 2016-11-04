@@ -11,4 +11,4 @@
 # I have a repo in a repo, so how do I get out of that.
 
 # How was your first experience of pairing in a GPS?
-# Super, it wasn't hard so that was good.
+# Super, it wasn't hard so that was good. When things get hard is when things get rough. 
